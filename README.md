@@ -48,18 +48,18 @@ My job was to build **DataFlow Pro**, a Python ETL (Extract, Transform, Load) en
 
 | Data Structure | Operation | Complexity |
 |---|---|---|
-| Bubble / Insertion / Selection Sort | Sort | O(n²) ❌ |
-| Merge Sort / Quick Sort | Sort | O(n log n) ✅ |
-| Timsort (built-in) | Sort | O(n log n) ⚡ |
+| Bubble / Insertion / Selection Sort | Sort | O(n²)  |
+| Merge Sort / Quick Sort | Sort | O(n log n)  |
+| Timsort (built-in) | Sort | O(n log n)  |
 | Linear Search | Search | O(n) |
-| Binary Search | Search | O(log n) ✅ |
+| Binary Search | Search | O(log n)  |
 | Singly Linked List | Undo | O(n) |
-| Doubly Linked List | Undo/Redo | O(1) ✅ |
-| Stack (Array or LL) | Push/Pop | O(1) ✅ |
-| List Queue | Dequeue | O(n) ❌ |
-| Deque / LL Queue | Dequeue | O(1) ✅ |
-| BST | Insert/Search | O(log n) avg ✅ |
-| Tree Roll-Up | Traversal | O(n) ✅ |
+| Doubly Linked List | Undo/Redo | O(1)  |
+| Stack (Array or LL) | Push/Pop | O(1)  |
+| List Queue | Dequeue | O(n)  |
+| Deque / LL Queue | Dequeue | O(1)  |
+| BST | Insert/Search | O(log n) avg  |
+| Tree Roll-Up | Traversal | O(n) |
 
 ---
 
